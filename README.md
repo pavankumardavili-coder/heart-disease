@@ -1,8 +1,11 @@
-Heart Disease Analysis
+Heart Disease Analysis 
+
 Overview
+
 The Heart Disease Analysis project focuses on analyzing patient health data to identify the major factors contributing to heart disease. The project uses data analytics and interactive visualizations to transform raw medical data into meaningful insights. By examining attributes such as age, gender, blood pressure, cholesterol level, heart rate, chest pain type, blood sugar, and lifestyle factors, the project helps healthcare professionals understand disease patterns and support early diagnosis. Tableau is used to create interactive dashboards that simplify data interpretation and improve decision-making.
 
 Objectives
+
 Analyze heart disease patient data to identify important risk factors.
 Visualize healthcare data using interactive dashboards.
 Discover trends and patterns related to heart disease.
@@ -13,6 +16,7 @@ Problem Statement
 Heart disease is one of the leading causes of death worldwide. Early detection and analysis of risk factors are essential for preventing serious health complications. However, large healthcare datasets are difficult to analyze manually. This project aims to analyze heart disease data using data visualization techniques to identify patterns, correlations, and high-risk patient groups, enabling better clinical decision-making.
 
 Tools Used
+
 Tableau – Data visualization and dashboard development.
 Microsoft Excel / CSV Dataset – Data storage and preprocessing.
 Python (Optional) – Data cleaning and preprocessing.
@@ -32,11 +36,6 @@ Project Features
 Interactive Tableau dashboards.
 Patient demographic analysis.
 Age-wise and gender-wise disease analysis.
-Cholesterol and blood pressure analysis.
-Chest pain type visualization.
-Heart rate and blood sugar analysis.
-Risk factor identification.
-Dynamic filters for better user interaction.
 Story-based data presentation.
 Easy-to-understand graphical reports.
 Dataset Description
@@ -62,6 +61,7 @@ Working Principle
 The heart disease dataset is collected and preprocessed to remove missing or inconsistent values. The cleaned data is imported into Tableau, where multiple charts and dashboards are created to analyze patient health conditions. Filters and interactive visualizations enable users to explore different medical parameters and identify relationships between risk factors and heart disease. The final dashboard provides meaningful insights that help healthcare professionals make informed decisions.
 
 Applications
+
 Hospital patient analysis.
 Clinical decision support systems.
 Healthcare research.
@@ -71,6 +71,7 @@ Public health monitoring.
 Educational and academic projects.
 Healthcare management systems.
 Advantages
+
 Easy visualization of complex medical data.
 Quick identification of high-risk patients.
 Supports early disease detection.
@@ -84,6 +85,7 @@ Results
 The project successfully analyzes heart disease data and presents meaningful insights through interactive Tableau dashboards. The visualizations clearly identify major risk factors such as age, cholesterol, blood pressure, chest pain type, and heart rate. The dashboard enables users to compare patient groups, detect trends, and understand the factors associated with heart disease. Overall, the project improves data interpretation and supports better healthcare decision-making.
 
 Future Scope
+
 Integrate machine learning models for heart disease prediction.
 Develop a real-time healthcare monitoring dashboard.
 Connect with hospital databases for live data analysis.
