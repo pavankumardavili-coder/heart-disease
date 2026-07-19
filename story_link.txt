@@ -1,0 +1,5 @@
+https://public.tableau.com/views/StoryOfHeartDiseaseInIndia/StoryOfHeartDiseaseInIndia?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+NOTE: This is a placeholder link. Replace with your own published Tableau Public
+story URL after building the Heart Disease Tableau Story and publishing it to
+Tableau Public.
