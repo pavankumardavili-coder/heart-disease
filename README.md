@@ -172,21 +172,6 @@ Heart-Disease-Analysis-and-Visualization-Dashboard/
 ├── index.html
 └── README.md
 ```
-
----
-
-# 🔗 Project Links
-
-## 📊 Tableau Dashboard
-
-https://public.tableau.com/views/HeartDiseaseAnalyticsDashboard/Dashboard1
-*(placeholder — replace with your published Tableau Public dashboard link)*
-
-## 📖 Tableau Story
-
-https://public.tableau.com/views/StoryOfHeartDiseaseInIndia/StoryOfHeartDiseaseInIndia
-*(placeholder — replace with your published Tableau Public story link)*
-
 ---
 
 # 📌 Results
