@@ -207,10 +207,8 @@ This project uses a synthetic, illustrative dataset generated for educational an
 
 ## Team Members
 
-- **V. Venkata Meghanath** – Team Lead
-- **V. Sai Rohitha** – Team Member
-- **U. Naga Lakshmi** – Team Member
-- **P. Jaswanth** – Team Member
+- **D.Pavan Kumar** – Team Lead
+- **G.Bala Yamuna** – Team Member
 
 **Department:** Electronics and Communication Engineering (ECE)
 
